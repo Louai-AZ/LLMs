@@ -1,0 +1,3 @@
+torch
+sentencepiece #for tokeniser used in llama  
+tqdm
